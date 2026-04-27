@@ -18,3 +18,13 @@ I want to understand how builders use Base, GitHub, smart contracts, and onchain
 - Created my first public GitHub repository
 - Started learning about Base builder activity
 - Connected my wallet and social accounts
+
+## Base learning notes
+
+I started reading the official Base documentation to understand how to build on Base.
+
+Topics I'm learning:
+- What Base is
+- How smart contracts work
+- How to deploy a smart contract
+- How builders use GitHub and onchain tools
