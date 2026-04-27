@@ -1,2 +1,14 @@
-# my-base-builder-journey
-Learning how to build on Base
+# My Base Builder Journey
+
+I'm learning how to build on Base.
+
+## Why I'm doing this
+
+I want to understand how builders use Base, GitHub, smart contracts, and onchain tools.
+
+## Goals
+
+- Learn the basics of Base
+- Connect my GitHub to builder platforms
+- Deploy my first smart contract on Base
+- Build simple public projects
