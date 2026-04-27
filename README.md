@@ -12,3 +12,9 @@ I want to understand how builders use Base, GitHub, smart contracts, and onchain
 - Connect my GitHub to builder platforms
 - Deploy my first smart contract on Base
 - Build simple public projects
+
+## Progress
+
+- Created my first public GitHub repository
+- Started learning about Base builder activity
+- Connected my wallet and social accounts
