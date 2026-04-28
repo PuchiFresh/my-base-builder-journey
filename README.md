@@ -32,3 +32,7 @@ Topics I'm learning:
 ## Current focus
 
 My current focus is to build a real public GitHub history while learning about Base, Guild, smart contracts and onchain reputation.
+
+## Project website
+
+https://puchifresh.github.io/
