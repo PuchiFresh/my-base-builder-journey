@@ -28,3 +28,7 @@ Topics I'm learning:
 - How smart contracts work
 - How to deploy a smart contract
 - How builders use GitHub and onchain tools
+
+## Current focus
+
+My current focus is to build a real public GitHub history while learning about Base, Guild, smart contracts and onchain reputation.
