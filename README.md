@@ -36,3 +36,7 @@ My current focus is to build a real public GitHub history while learning about B
 ## Project website
 
 https://puchifresh.github.io/
+
+## Current progress
+
+I am currently working on improving my GitHub activity, Talent profile, Guild roles, and Base builder reputation.
